@@ -6,6 +6,10 @@ Monte Carlo Modelling of Confidence Intervals in Translation Quality Evaluation 
 
 https://github.com/lHan87/MCMC_TQE/blob/main/Poster_TQE_uncertainty_MCMC_4lrec2022.pdf
 
+or 
+
+https://github.com/lHan87/MCMC_TQE/blob/main/poster-v2.pdf
+
 # Citation:
 
 S Gladkoff, I Sorokina, L Han, A Alekseeva. (2021). Measuring Uncertainty in Translation Quality Evaluation (TQE). arXiv preprint arXiv:2111.07699 https://arxiv.org/abs/2111.07699 
