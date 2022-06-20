@@ -18,7 +18,8 @@ S Gladkoff, I Sorokina, L Han, A Alekseeva. (2021). Measuring Uncertainty in Tra
 
 or 
 
-S Gladkoff, I Sorokina, L Han, A Alekseeva. (2022). Measuring Uncertainty in Translation Quality Evaluation (TQE). In LREC2022.
+S Gladkoff, I Sorokina, L Han, A Alekseeva.
+Proceedings of the 13th Conference on Language Resources and Evaluation (LREC 2022), pages 1454–1461 Marseille, 20-25 June 2022 © European Language Resources Association (ELRA), licensed under CC-BY-NC-4.0
 
 Alexandra Alekseeva, Serge Gladkoff, Irina Sorokina, Lifeng Han. Monte Carlo modelling of confidence intervals in translation quality evaluation (TQE) and post-editing dstance (PED) measurement. Publication date. 2021/10/23. Conference Metrics 2021: Workshop on Informetric and Scientometric Research (SIG-MET), 23-24 Oct 2021.
 
