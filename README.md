@@ -1,16 +1,14 @@
 # MCMC_TQE Project
 
-Monte Carlo Modelling of Confidence Intervals in Translation Quality Evaluation (TQE) and Post-Editing Distance (PED) Measurement
+**Monte Carlo Modelling of Confidence Intervals in Translation Quality Evaluation (TQE) and Post-Editing Distance (PED) Measurement
 
 **paper link** https://github.com/lHan87/MCMC_TQE/blob/main/2022.lrec-1.156_TQE_uncertainty.pdf
 
 # Download our LREC2022 conference poster:
 
-https://github.com/lHan87/MCMC_TQE/blob/main/Poster_TQE_uncertainty_MCMC_4lrec2022.pdf
-
-or 
-
 https://github.com/lHan87/MCMC_TQE/blob/main/poster-v2.pdf
+
+or you might be interested in our Tutorial in LREC2022 on 'Meta-eval' https://github.com/poethan/LREC22_MetaEval_Tutorial 
 
 # Citation:
 
